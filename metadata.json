@@ -1,0 +1,8 @@
+{
+  "name": "Ajay Vijay Mart – Agar Malwa's Modern Supermarket",
+  "description": "Agar Malwa's premier multi-floor supermarket offering fresh groceries, daily essentials, personal care, and festive specials with WhatsApp ordering and fast home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
